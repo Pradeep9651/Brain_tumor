@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import requests
 from PIL import Image
-#import cv2
+import cv2
 import os
 import time
 from streamlit_option_menu import option_menu
