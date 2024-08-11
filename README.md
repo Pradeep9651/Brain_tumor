@@ -21,8 +21,8 @@ Model to segment brain tumors from 2D Magnetic Resonance brain Images by a convo
 
 ## Screenshots
 
-![1](https://github.com/Rieyanshi/automated-brain-tumor/assets/86876634/82e3e414-1870-4f9d-94c8-52e409ae98ee)
-![2](https://github.com/Rieyanshi/automated-brain-tumor/assets/86876634/c0f313f3-7ef9-4d24-a584-06df48245773)
+![1]()
+
 
 
 ## Contributing
