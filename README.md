@@ -38,4 +38,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License - see the LICENSE file for details.
 ***
 
-Rieyanshi Sharma | https://github.com/Pradeep9651
+Pradeep Yadav | https://github.com/Pradeep9651
