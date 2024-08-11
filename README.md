@@ -21,8 +21,10 @@ Model to segment brain tumors from 2D Magnetic Resonance brain Images by a convo
 
 ## Screenshots
 
-![1]()
-
+![1](https://github.com/Pradeep9651/Brain_tumor/blob/master/Screenshot%202024-08-11%20123139.png)
+![1](https://github.com/Pradeep9651/Brain_tumor/blob/master/Screenshot%202024-08-11%20123159.png)
+![1](https://github.com/Pradeep9651/Brain_tumor/blob/master/Screenshot%202024-08-11%20123221.png)
+![1](https://github.com/Pradeep9651/Brain_tumor/blob/master/Screenshot%202024-08-11%20123229.png)
 
 
 ## Contributing
