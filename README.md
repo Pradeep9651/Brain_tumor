@@ -5,7 +5,7 @@ https://www.kaggle.com/code/ahmedhamada0/brain-tumor-detection-br35h ).
 
 ## Contents
 
-[About](#about) | [Technologies Used](#technologies-used) | [Screenshots](#screenshots) | [Contributing](#contributing) | [License](#license)
+[About](#about) | [Technologies Used](#technologies-used) | [Screenshots](#screenshots) | [Contributing](#contributing) 
 
 ## About
 
@@ -37,8 +37,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   Push your changes to your fork.
   Create a pull request to the main repository.
   
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-***
 
-Pradeep Yadav | https://github.com/Pradeep9651
