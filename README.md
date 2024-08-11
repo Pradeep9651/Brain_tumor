@@ -1,4 +1,4 @@
-# Automated Brain Tumor Segmentation using MRI images
+# Automated Brain Tumor Detection using MRI images
 
 This repository contains the source code for the the brain tumor detection project and the dataset used (dataset from Kagle : 
 https://www.kaggle.com/code/ahmedhamada0/brain-tumor-detection-br35h ).
@@ -9,7 +9,7 @@ https://www.kaggle.com/code/ahmedhamada0/brain-tumor-detection-br35h ).
 
 ## About
 
-Model to segment brain tumors from 2D Magnetic Resonance brain Images by a convolutional neural network (CNN) algorithm.
+Model to detect brain tumors from 2D Magnetic Resonance brain Images by a convolutional neural network (CNN) algorithm.
 
 ## Technologies Used
 
